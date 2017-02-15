@@ -1,6 +1,11 @@
 This repository contains Oozie applications (sample data, scripts, configurations, libraries, 
 HDFS and Oozie commands) covered in  blog - hadooped.blogspot.com
 
+
+https://gist.github.com/airawat/6001806
+
+
+
 The listing below shows actions/functionality covered:
 
 Blog 1: Oozie workflow - hdfs and email actions
